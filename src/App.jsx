@@ -58,7 +58,7 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>Connect with us</h2
+          <h2>Connect with us</h2>
           <p>Join the Vite community</p>
           <ul>
             <li>
@@ -119,4 +119,4 @@ function App() {
   )
 }
 
-export default Apppp
+export default App
